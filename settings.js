@@ -39,11 +39,11 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['Didula Rashmika🌹⃝⃘̉̉̉̉̉̉🧚']
+global.owner = ['ModsBOT']
 
 global.premium = ['🖤Black Panther Bot🖤']
 
-global.ownernomer = '+94741671668'
+global.ownernomer = '+628980330708'
 
 global.ownername = 'Didula Rashmika🌹⃝⃘̉̉̉̉̉̉🧚'
 
